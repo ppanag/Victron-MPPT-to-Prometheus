@@ -1,4 +1,4 @@
-# Victron-MPPT-to-Prometheus
+# Victron MPPT to Prometheus
 Get Victron SmartSolar MPPT data and store to Prometheus database.
 
 Two versions: 1. Through USB-serial cable and 2. Through Bluetooth BLE (recommended) <br>
